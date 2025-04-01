@@ -37,11 +37,11 @@ aws cloudformation deploy --template-file template.yaml --stack-name ChatbotStac
 
 ## 📷 Screenshots
 ![Chatbot Interface](https://github.com/ShrutiPriya13/chatbot/blob/main/image1.png)
-![Chatbot Interface](https://github.com/ShrutiPriya13/chatbot/blob/main/image1.png)
-![Chatbot Interface](https://github.com/ShrutiPriya13/chatbot/blob/main/image1.png)
-![Chatbot Interface](https://github.com/ShrutiPriya13/chatbot/blob/main/image1.png)
-![Chatbot Interface](https://github.com/ShrutiPriya13/chatbot/blob/main/image1.png)
-![Chatbot Interface](https://github.com/ShrutiPriya13/chatbot/blob/main/image1.png)
+![Chatbot Interface](https://github.com/ShrutiPriya13/chatbot/blob/main/image2.png)
+![Chatbot Interface](https://github.com/ShrutiPriya13/chatbot/blob/main/image4.png)
+![Chatbot Interface](https://github.com/ShrutiPriya13/chatbot/blob/main/image6.png)
+![Chatbot Interface](https://github.com/ShrutiPriya13/chatbot/blob/main/image7.png)
+![Chatbot Interface](https://github.com/ShrutiPriya13/chatbot/blob/main/image8.png)
 
 ## 🤝 Contributing
 Feel free to fork this repository and submit pull requests.
