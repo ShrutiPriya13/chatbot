@@ -36,12 +36,12 @@ aws cloudformation deploy --template-file template.yaml --stack-name ChatbotStac
 - Test the chatbot by entering different queries.
 
 ## 📷 Screenshots
-![Chatbot Interface](images/chatbot-ui.png)
-![Chatbot Interface](images/chatbot-ui.png)
-![Chatbot Interface](images/chatbot-ui.png)
-![Chatbot Interface](images/chatbot-ui.png)
-![Chatbot Interface](images/chatbot-ui.png)
-![Chatbot Interface](images/chatbot-ui.png)
+![Chatbot Interface]([images/chatbot-ui.png](https://github.com/ShrutiPriya13/chatbot/blob/main/image1.png))
+![Chatbot Interface]([images/chatbot-ui.png](https://github.com/ShrutiPriya13/chatbot/blob/main/image1.png))
+![Chatbot Interface]([images/chatbot-ui.png](https://github.com/ShrutiPriya13/chatbot/blob/main/image1.png))
+![Chatbot Interface]([images/chatbot-ui.png](https://github.com/ShrutiPriya13/chatbot/blob/main/image1.png))
+![Chatbot Interface]([images/chatbot-ui.png](https://github.com/ShrutiPriya13/chatbot/blob/main/image1.png))
+![Chatbot Interface]([images/chatbot-ui.png](https://github.com/ShrutiPriya13/chatbot/blob/main/image1.png))
 
 ## 🤝 Contributing
 Feel free to fork this repository and submit pull requests.
